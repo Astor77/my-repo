@@ -1,1 +1,1 @@
-print("Python哈哈哈")
+print("Python學習GOGO")
