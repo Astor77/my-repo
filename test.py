@@ -1,1 +1,0 @@
-print("Python學習GOGO")
